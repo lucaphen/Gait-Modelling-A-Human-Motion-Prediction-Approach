@@ -2,7 +2,7 @@
 
 This repository details the code implemented during the EEE4022FEWA research project into modelling human locomotion. Link to the research paper can be found [here](www.404notfound.com).
 
-<img src="https://github.com/lucaphen/Gait-Modelling-A-Human-Motion-Prediction-Approach/blob/main/hip_flexion_extension_graph.png" width="300"> <img src="https://github.com/lucaphen/Gait-Modelling-A-Human-Motion-Prediction-Approach/blob/main/knee_flexion_extension_graph.png" width="350"> <img src="https://github.com/lucaphen/Gait-Modelling-A-Human-Motion-Prediction-Approach/blob/main/ankle_flexion_extension_graph.png" width="300">
+<img src="https://github.com/lucaphen/Gait-Modelling-A-Human-Motion-Prediction-Approach/blob/main/hip_flexion_extension_graph.png" width="280"> <img src="https://github.com/lucaphen/Gait-Modelling-A-Human-Motion-Prediction-Approach/blob/main/knee_flexion_extension_graph.png" width="335"> <img src="https://github.com/lucaphen/Gait-Modelling-A-Human-Motion-Prediction-Approach/blob/main/ankle_flexion_extension_graph.png" width="280">
 
 
 ## Introduction
